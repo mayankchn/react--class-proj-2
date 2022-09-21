@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Navbar from "./compo/Navbar";
+import Navbar from "/src/compo/Navbar";
 import Hero from "./compo/Hero";
 import Card from "./compo/Card";
 import data from "./data";
